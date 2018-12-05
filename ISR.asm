@@ -1,5 +1,5 @@
 ; ISR.asm
-; Name:
+; Name: Ethan Shen, Kushal Shah
 ; UTEid:  
 ; Keyboard ISR runs when a key is struck
 ; Checks for a valid RNA symbol and places it at x4600
