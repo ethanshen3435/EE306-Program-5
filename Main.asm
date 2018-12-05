@@ -8,7 +8,7 @@
 ; initialize the stack pointer
 LD R6,HEADER
 
-
+ 
 ; set up the keyboard interrupt vector table entry
 
 LD R0,INRPT
