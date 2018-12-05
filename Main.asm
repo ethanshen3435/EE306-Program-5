@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 ; Main.asm
-; Name:
+; Name: Ethan Shen, Kushal Shah
 ; UTEid: 
 ; Continuously reads from x4600 making sure its not reading duplicate
 ; symbols. Processes the symbol based on the program description
